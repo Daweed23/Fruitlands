@@ -106,12 +106,12 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/tilesets\/LPC_terrain\/Terrain.tsx"
+         "source":"tilesets\/LPC_terrain\/Terrain.tsx"
         }, 
         {
          "columns":9,
          "firstgid":1025,
-         "image":"..\/tilesets\/submission_daneeklu\/tilesets\/plants.png",
+         "image":"tilesets\/submission_daneeklu\/tilesets\/plants.png",
          "imageheight":384,
          "imagewidth":288,
          "margin":0,
@@ -124,7 +124,7 @@
         {
          "columns":9,
          "firstgid":1133,
-         "image":"..\/tilesets\/LPC Base Assets\/tiles\/house.png",
+         "image":"tilesets\/LPC Base Assets\/tiles\/house.png",
          "imageheight":224,
          "imagewidth":288,
          "margin":0,
@@ -137,7 +137,7 @@
         {
          "columns":3,
          "firstgid":1196,
-         "image":"..\/tilesets\/submission_daneeklu\/tilesets\/fence.png",
+         "image":"tilesets\/submission_daneeklu\/tilesets\/fence.png",
          "imageheight":192,
          "imagewidth":96,
          "margin":0,
@@ -150,7 +150,7 @@
         {
          "columns":16,
          "firstgid":1214,
-         "image":"C:\/Users\/dw\/Downloads\/cottage.png",
+         "image":"..\/..\/..\/Downloads\/cottage.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
