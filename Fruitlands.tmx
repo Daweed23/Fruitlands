@@ -11,7 +11,7 @@
   <image source="tilesets/submission_daneeklu/tilesets/fence.png" width="96" height="192"/>
  </tileset>
  <tileset firstgid="1214" name="cottage" tilewidth="32" tileheight="32" tilecount="256" columns="16">
-  <image source="../../../Downloads/cottage.png" width="512" height="512"/>
+  <image source="tilesets/cottage.png" width="512" height="512"/>
  </tileset>
  <layer id="2" name="start" width="50" height="100">
   <data encoding="csv">
