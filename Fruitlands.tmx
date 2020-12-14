@@ -419,7 +419,7 @@
   <tile id="620" terrain="0,0,0,0"/>
   <tile id="621" terrain="0,0,0,0">
    <properties>
-    <property name="collides" value="true"/>
+    <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
   <tile id="629" terrain=",,,21"/>
